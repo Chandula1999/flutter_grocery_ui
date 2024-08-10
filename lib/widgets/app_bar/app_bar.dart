@@ -37,12 +37,12 @@ List<Widget>? appBarActions = [
   Padding(
     padding: const EdgeInsets.only(right: 8),
     child: Container(
-      height: 50,
-      width: 50,
+      height: 30,
+      width: 30,
       decoration: BoxDecoration(
           borderRadius: BorderRadius.circular(100),
           color: const Color(0xffFF9900).withOpacity(0.52)),
-      child: Center(
+      child: const Center(
         child: Icon(
           Icons.card_travel,
           color: Color(0xffFFFFFF),
