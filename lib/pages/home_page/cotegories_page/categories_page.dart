@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_grocery_ui/pages/home_page/cotegories_page/widgets/rating.dart';
 import 'package:flutter_grocery_ui/pages/widgets/reusable/categories_page/category_card.dart';
 import 'package:flutter_grocery_ui/pages/widgets/reusable/categories_page/selected_items.dart';
-
+import 'package:flutter_grocery_ui/pages/widgets/shared/notification_widget.dart';
 
 class CategoriesPage extends StatelessWidget {
   const CategoriesPage({super.key});
