@@ -3,8 +3,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 import 'package:flutter_grocery_ui/pages/home_page/widgets/search_bar.dart';
 import 'package:flutter_grocery_ui/pages/widgets/app_bar/app_bar.dart';
-import 'package:flutter_grocery_ui/pages/widgets/app_bar/reusable/product_card.dart';
-import 'package:flutter_grocery_ui/pages/widgets/app_bar/reusable/sale_card.dart';
+import 'package:flutter_grocery_ui/pages/widgets/app_bar/reusable/home_page/product_card.dart';
+import 'package:flutter_grocery_ui/pages/widgets/app_bar/reusable/home_page/sale_card.dart';
 
 class HomePage extends StatelessWidget {
   const HomePage({super.key});
