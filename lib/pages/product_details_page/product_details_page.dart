@@ -1,11 +1,10 @@
-
 // ignore_for_file: unnecessary_const
 
 import 'package:flutter/material.dart';
-import 'package:layout_desiginig/widgets/resuable/product_details_page/price_card.dart';
-import 'package:layout_desiginig/widgets/resuable/product_details_page/products_desc.dart';
-import 'package:layout_desiginig/widgets/shared/gradient_button.dart';
-import 'package:layout_desiginig/widgets/shared/notificatio_widget.dart';
+import 'package:flutter_grocery_ui/pages/widgets/reusable/product_details_page/price_card.dart';
+import 'package:flutter_grocery_ui/pages/widgets/reusable/product_details_page/product_desc.dart';
+import 'package:flutter_grocery_ui/pages/widgets/shared/gradient_button.dart';
+import 'package:flutter_grocery_ui/pages/widgets/shared/notification_widget.dart';
 
 class ProductDetailsPage extends StatelessWidget {
   const ProductDetailsPage({super.key});
