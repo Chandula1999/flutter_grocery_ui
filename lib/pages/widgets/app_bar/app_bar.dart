@@ -26,7 +26,7 @@ Widget appBarTitle = Column(
       style:
           TextStyle(fontSize: 16, color: Color(0xff3B3636).withOpacity(0.47)),
     ),
-    Text(
+    const Text(
       "92 High Street , London",
       style: TextStyle(fontSize: 18, fontWeight: FontWeight.w500),
     )
